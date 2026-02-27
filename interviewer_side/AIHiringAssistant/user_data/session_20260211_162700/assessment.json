@@ -1,0 +1,72 @@
+{
+  "responses": {
+    "Openness": [
+      2,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "Conscientiousness": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "Extraversion": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      3,
+      3
+    ],
+    "Agreeableness": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4,
+      4
+    ],
+    "Neuroticism": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "scores": {
+    "Openness": 3.7,
+    "Conscientiousness": 4.0,
+    "Extraversion": 4.6,
+    "Agreeableness": 3.3,
+    "Neuroticism": 4.0
+  },
+  "timestamp": "2026-02-11T16:28:07.706385"
+}

@@ -1,0 +1,21 @@
+{
+  "session_id": "session_20260211_164832",
+  "timestamp": "2026-02-11T16:50:05.247820",
+  "registration": {
+    "name": "d",
+    "email": "d@d.com",
+    "phone": "489545809",
+    "age": 25,
+    "gender": "Male"
+  },
+  "interview_recordings": [
+    "user_data\\session_20260211_164832\\interview_reaction.mp4"
+  ],
+  "ocean_scores": {
+    "Openness": 3.3,
+    "Conscientiousness": 3.9,
+    "Extraversion": 4.5,
+    "Agreeableness": 4.5,
+    "Neuroticism": 4.6
+  }
+}

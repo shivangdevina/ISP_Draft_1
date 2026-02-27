@@ -1,0 +1,21 @@
+{
+  "session_id": "session_20260211_165715",
+  "timestamp": "2026-02-11T16:58:47.300515",
+  "registration": {
+    "name": "Aaryan Kr",
+    "email": "ak@ex.com",
+    "phone": "775984759758",
+    "age": 25,
+    "gender": "Male"
+  },
+  "interview_recordings": [
+    "user_data\\session_20260211_165715\\interview_reaction.mp4"
+  ],
+  "ocean_scores": {
+    "Openness": 3.0,
+    "Conscientiousness": 4.0,
+    "Extraversion": 4.0,
+    "Agreeableness": 4.0,
+    "Neuroticism": 4.0
+  }
+}

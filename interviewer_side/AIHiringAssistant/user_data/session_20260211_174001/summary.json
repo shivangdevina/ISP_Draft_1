@@ -1,0 +1,21 @@
+{
+  "session_id": "session_20260211_174001",
+  "timestamp": "2026-02-11T17:41:54.581549",
+  "registration": {
+    "name": "Aryan Kr2",
+    "email": "aarysn@ek.com",
+    "phone": "757493794694784",
+    "age": 25,
+    "gender": "Male"
+  },
+  "interview_recordings": [
+    "user_data\\session_20260211_174001\\interview_reaction.mp4"
+  ],
+  "ocean_scores": {
+    "Openness": 3.1,
+    "Conscientiousness": 2.8,
+    "Extraversion": 2.7,
+    "Agreeableness": 2.8,
+    "Neuroticism": 3.4
+  }
+}
